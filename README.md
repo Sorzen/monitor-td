@@ -14,7 +14,7 @@ dist/ - 根据webpack打包的文件
 test/ - 测试目录
 
 
---------------------------------------------------------------------------------------------
+***
 
 ## 文档
 
@@ -29,16 +29,16 @@ test/ - 测试目录
 
 对应上面URL地址中参数：
 
-属性 | 说明 | 类型 | 默认值
----|---|---|---|---
-projectId | 项目ID | String | 空
-name | 项目名称 | String | 空
-errorUrl | 错误监控数据上报地址 | String | 空
-performanceError | 性能监控数据上报地址 | String | 空
-errorMonitor | 是否进行错误监控 | Boolean | true
-performanceMonitor | 是否进行性能监控 | Boolean | true
-vue | 是否进行VUE项目监控 | Boolean | true
-js | 是否进行JS项目监控 | Boolean | true
+| 属性 | 说明 | 类型 | 默认值 |
+| ------ | ------ | ------ | ------ |
+| projectId | 项目ID | String | 空 |
+| name | 项目名称 | String | 空 |
+| errorUrl | 错误监控数据上报地址 | String | 空 |
+| performanceError | 性能监控数据上报地址 | String | 空 |
+| errorMonitor | 是否进行错误监控 | Boolean | true |
+| performanceMonitor | 是否进行性能监控 | Boolean | true |
+| vue | 是否进行VUE项目监控 | Boolean | true |
+| js | 是否进行JS项目监控 | Boolean | true |
 
 
 ### 特点
