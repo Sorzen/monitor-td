@@ -6,3 +6,6 @@ yarn.lock
 yarn-error.log
 .idea/
 */log.txt
+/src/index3.js
+/src/test.js
+/src/utils.js
